@@ -4,7 +4,7 @@
     box-sizing: border-box;
     
     
-    color: #FFFFFF;
+    
 }
 
 body {
@@ -24,7 +24,7 @@ body {
     top: 30%;
     left: 50%;
     background: #FFFFFF;
-    border-radius: 2px;
+    border-radius: 6px;
     min-width: 450px;
     position: absolute;
     min-height: 100px;
